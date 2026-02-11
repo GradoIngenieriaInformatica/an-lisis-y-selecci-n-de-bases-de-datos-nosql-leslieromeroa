@@ -1,1 +1,5 @@
 TIPO | Justificación corta
+jercicio 2
+Solución: Base de datos Documental.
+
+Justificación: Es la mejor opción por su flexibilidad total. Dado que los perfiles de usuario cambian constantemente, no es viable frenar el desarrollo para realizar migraciones de estructura cada vez que se añade un campo opcional.

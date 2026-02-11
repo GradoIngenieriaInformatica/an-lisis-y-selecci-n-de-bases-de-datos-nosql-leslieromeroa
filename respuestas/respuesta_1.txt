@@ -1,1 +1,5 @@
 TIPO | Justificación corta
+Ejercicio 1
+Solución: Base de datos Orientada a Grafos.
+
+Justificación: Elegimos esta opción porque en una base de datos tradicional, buscar relaciones profundas  requiere cruces masivos (joins) que hunden el rendimiento. 
