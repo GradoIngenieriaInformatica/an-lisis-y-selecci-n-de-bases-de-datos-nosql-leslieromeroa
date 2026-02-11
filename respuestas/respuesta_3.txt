@@ -1,1 +1,6 @@
 TIPO | Justificación corta
+
+Ejercicio 3
+Solución: Base de datos de Series Temporales
+
+Justificación: Su arquitectura está especializada en ingestar datos a alta velocidad sin bloquearse. A diferencia de las bases de datos normales, está optimizada para guardar flujos continuos y responder consultas rápidas sobre ventanas de tiempo· en lugar de buscar registros individuales.
